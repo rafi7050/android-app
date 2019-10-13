@@ -1,0 +1,8 @@
+<resources>
+    <color name="white">#e8e9ee</color>
+    <color name="red">#dd160b</color>
+    <color name="green">#01a023</color>
+    <color name="colorPrimary">#443b0127</color>
+    <color name="colorPrimaryDark">#8866</color>
+    <color name="colorAccent">#8866</color>
+</resources>
